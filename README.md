@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjh5672&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://img.shields.io/github/followers/pjh5672?label=Follow)
 
 ### :wave: Biography
 I am a machine learning researcher who specifically working in the field of computer vision.  
@@ -17,7 +18,7 @@ My research interest are **algorithm foundation** and **real-world application**
 
 
 ### :writing_hand: Language
-![PYTHON](https://img.shields.io/badge/Python-advanced-blue?style=flat-square&logo=python&logoColor=white)  ![MATLAB](https://img.shields.io/badge/Matlab-advanced-yellow?style=flat-square&logo=mathworks&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/HTML,%20CSS,%20JAVASCRIPT-intermediate-brightgreen?style=flat-square&logo=javascript&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-Novice-9cf?style=flat-square&logo=MariaDB&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-advanced-blue?style=flat-square&logo=python&logoColor=white)  ![MATLAB](https://img.shields.io/badge/Matlab-advanced-blue?style=flat-square&logo=mathworks&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/HTML,%20CSS,%20JAVASCRIPT-intermediate-brightgreen?style=flat-square&logo=javascript&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-Novice-9cf?style=flat-square&logo=MariaDB&logoColor=white)
 
 ### :mailbox_with_mail: Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:pjh5672.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiho-park-9a5595163)](https://www.linkedin.com/in/jiho-park-9a5595163) [![My Blog Badge](http://img.shields.io/badge/My%20Blog-important?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://big-dream-world.tistory.com) [![Curriculum vitae](http://img.shields.io/badge/Curriculum%20Vitae-blueviolet?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://drive.google.com/file/d/1VDHg8mK9uvVRnKOcxMv7EqzrO4LMHETP/view?usp=sharing)
