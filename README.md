@@ -1,5 +1,4 @@
 ### Biography
-___
 👋I am a machine learning researcher who specifically working in the field of computer vision.
 My research interest are algorithm foundation and real-world application with machine learning and statistical pattern analysis. I graduated in architectural engineering from Pusan National University(PNU), and I obtained my MSc in civil & environmental engineering from Korea Advanced Institute of Science and Technology(KAIST). A topic of my master thesis is related with anomaly detection using computer vision and image processing techniques. Ever since then, I've been so inside  artificial intelligence, and learning more and more with working experience. 
 Currently, I am focusing on computer vision for development of AI-based vision solution in E-commerce market at cafe24 corp. 
