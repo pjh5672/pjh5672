@@ -12,7 +12,7 @@ My research interest is **algorithm foundation** and **real-world application** 
 | Jun.2020~Dec.2020 | Color Quantization | *Dominant color extractor using K-means clustering* |
 | Nov.2019~Aug.2020 | Object Segmentation | *Super-detail model object segmentation* |
 | Apr.2019~Dev.2019 | Image Generation | *Real-time object removal and background restoration* |
-| Feb.2017~Aug.2018 | Image classification | *Development of micro-crack detection system in Flexible OLED using laser thermography* |
+| Feb.2017~Aug.2018 | Image Classification | *Development of micro-crack detection system in Flexible OLED using laser thermography* |
 | Aug.2016~Feb.2017 | Anomaly Detection | *Large-scale infrastructure monitoring and management using unmanned inspection units* |
 | Jul.2016~Jun.2017 | Anomaly Detection | *Development of automated non-destructive inspection system for damage detection in triplex adhesive layers* |
 
