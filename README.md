@@ -6,7 +6,7 @@ Currently, I am focusing on computer vision for development of AI-based vision s
 ### :computer: Research Project
 |**Date** | **Task Type** | **Research Title** |
 |:------:|:-:|:-:|
-| Oct.2020~presentddddddddddd| Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
+| Oct.2020~ presentddddddddddd| Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
 | Jun. 20 ~ Dec. 20 | Color Quantization | *Dominant color extractor using K-means clustering* |
 | Nov. 19 ~ Aug. 20 | Object Segmentation | *Super-detail model object segmentation* |
 | Apr. 19 ~ Dev. 19 | Image Inpainting | *Real-time object removal and background restoration* |
