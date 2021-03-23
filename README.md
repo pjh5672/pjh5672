@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjh5672&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### :wave: Biography
 I am a machine learning researcher who specifically working in the field of computer vision.  
 My research interest are **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. Currently, I am focusing on computer vision for development of AI-based vision solution in E-commerce market at cafe24 corp. 
