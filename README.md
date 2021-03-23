@@ -4,7 +4,6 @@ My research interest are algorithm foundation and real-world application with ma
 Currently, I am focusing on computer vision for development of AI-based vision solution in E-commerce market at cafe24 corp. 
 
 ### Project
-___
 | **Date** | **Task Type** | **Research Title** | 
 |:-:|:-:|:-:|
 | Oct. 2020 ~ present  | Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
@@ -17,11 +16,9 @@ ___
 
 
 ### Language
-___
 ![PYTHON](https://img.shields.io/badge/python-advanced-blue?style=plastic&logo=python&logoColor=white)  ![MATLAB](https://img.shields.io/badge/matlab-advanced-yellow?style=plastic&logo=mathworks&logoColor=white)     ![JAVASCRIPT](https://img.shields.io/badge/javascript-intermediate-brightgreen?style=plastic&logo=javascript&logoColor=white) 
 
 ### Contact
-___
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:pjh5672.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiho-park-9a5595163)](https://www.linkedin.com/in/jiho-park-9a5595163) [![My Blog Badge](http://img.shields.io/badge/My%20Blog-important?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://big-dream-world.tistory.com) [![Curriculum vitae](http://img.shields.io/badge/Curriculum%20Vitae-blueviolet?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://drive.google.com/file/d/1VDHg8mK9uvVRnKOcxMv7EqzrO4LMHETP/view?usp=sharing)
 
 
