@@ -4,10 +4,9 @@ My research interest are **algorithm foundation** and **real-world application**
 Currently, I am focusing on computer vision for development of AI-based vision solution in E-commerce market at cafe24 corp. 
 
 ### :computer: Research Project
- **Date** </div> | **Task Type** | **Research Title**  
-:------:|:-:|:-:
-fdafffffffdddddddddddddddddddddddddddddddf | - | - 
-| Oct. 20 ~ present  | Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
+|**Date** | **Task Type** | **Research Title** |
+|:------:|:-:|:-:|
+| Oct.2020~presentddddddddddd| Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
 | Jun. 20 ~ Dec. 20 | Color Quantization | *Dominant color extractor using K-means clustering* |
 | Nov. 19 ~ Aug. 20 | Object Segmentation | *Super-detail model object segmentation* |
 | Apr. 19 ~ Dev. 19 | Image Inpainting | *Real-time object removal and background restoration* |
