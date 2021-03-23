@@ -8,7 +8,7 @@ My research interest is **algorithm foundation** and **real-world application** 
 ### :computer: Research Project
 |**Date** | **Task Type** | **Research Title** |
 |:-:|:-:|:-:|
-| Oct.2020~present | Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
+| Oct.2020~Present | Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
 | Jun.2020~Dec.2020 | Color Quantization | *Dominant color extractor using K-means clustering* |
 | Nov.2019~Aug.2020 | Object Segmentation | *Super-detail model object segmentation* |
 | Apr.2019~Dev.2019 | Image Generation | *Real-time object removal and background restoration* |
