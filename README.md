@@ -1,11 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjh5672&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Hits](https://img.shields.io/github/followers/pjh5672?label=Follow)
 
-### :wave: Biography
+### :smile: Biography
 I am a machine learning researcher who specifically working in the field of computer vision.  
 My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. Currently, I am focusing on computer vision for development of AI-based vision solutions in E-commerce market, working for cafe24 Corp. 
 
-### :computer: Research Project
+### :page_facing_up: Research Project
 |**Date** | **Task Type** | **Research Title** |
 |:-:|:-:|:-:|
 | Oct.2020~Present | Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
@@ -25,5 +25,5 @@ My research interest is **algorithm foundation** and **real-world application** 
 ![MariaDB](https://img.shields.io/badge/MariaDB-Novice-9cf?style=flat-square&logo=MariaDB&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Novice-9cf?style=flat-square&logo=Elasticsearch&logoColor=white)
 
 
-### :mailbox_with_mail: Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:pjh5672.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiho-park-9a5595163)](https://www.linkedin.com/in/jiho-park-9a5595163) [![My Blog Badge](http://img.shields.io/badge/My%20Blog-important?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://big-dream-world.tistory.com) [![Curriculum vitae](http://img.shields.io/badge/Curriculum%20Vitae-blueviolet?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://drive.google.com/file/d/1VDHg8mK9uvVRnKOcxMv7EqzrO4LMHETP/view?usp=sharing)
+### :e-mail: Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:pjh5672.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiho-park-9a5595163)](https://www.linkedin.com/in/jiho-park-9a5595163) [![Tech Blog](http://img.shields.io/badge/Tech%20Blog-important?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://big-dream-world.tistory.com) [![Curriculum vitae](http://img.shields.io/badge/Curriculum%20Vitae-blueviolet?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://drive.google.com/file/d/1VDHg8mK9uvVRnKOcxMv7EqzrO4LMHETP/view?usp=sharing)
