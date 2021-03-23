@@ -19,7 +19,7 @@ My research interest are **algorithm foundation** and **real-world application**
 
 ### :writing_hand: Language
 ![Python](https://img.shields.io/badge/Python-advanced-blue?style=flat-square&logo=python&logoColor=white)  ![Matlab](https://img.shields.io/badge/Matlab-advanced-blue?style=flat-square&logo=mathworks&logoColor=white) 
-![BashShell](https://img.shields.io/badge/BashShell-intermediate-brightgreen?style=flat-square&logo=GNUBash&logoColor=white) ![Javascript](https://img.shields.io/badge/JAVASCRIPT-intermediate-brightgreen?style=flat-square&logo=javascript&logoColor=white) 
+![BashShell](https://img.shields.io/badge/BashShell-intermediate-brightgreen?style=flat-square&logo=GNU Bash&logoColor=white) ![Javascript](https://img.shields.io/badge/JAVASCRIPT-intermediate-brightgreen?style=flat-square&logo=javascript&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-Novice-9cf?style=flat-square&logo=MariaDB&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Novice-9cf?style=flat-square&logo=Elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-Novice-9cf?style=flat-square&logo=Kibana&logoColor=white)
 
 ### :mailbox_with_mail: Contact
