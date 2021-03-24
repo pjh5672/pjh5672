@@ -6,7 +6,7 @@
 </div>
 
 ### :smile: Biography
-I am a machine learning researcher who specifically working in the field of computer vision.  
+I am a **machine learning researcher** who specifically working in the field of computer vision.  
 My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. Currently, I am focusing on computer vision for development of AI-based vision solutions in E-commerce market, working for cafe24 Corp. 
 
 ### :page_with_curl: Research Project
