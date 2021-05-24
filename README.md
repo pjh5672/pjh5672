@@ -6,7 +6,7 @@ My research interest is **algorithm foundation** and **real-world application** 
 
 My first work experience was Cafe24 Corp. I developed computer vision-based web service solutions such as image inpainting, model segmentation, color analysis, and landmark detection for E-commerce market. 
 
-Currently, I am working on computer vision field with experience of autonomous driving techniques.
+Currently, I am working on computer vision field with experience of * techniques.
 
 ## :page_with_curl: Research Project
 |**Date** | **Task Type** | **Research Title** |
