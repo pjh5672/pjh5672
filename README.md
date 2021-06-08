@@ -2,9 +2,7 @@
 
 ## :smile: Biography
 I am a **machine learning researcher** who specifically working in the field of computer vision.  
-My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience.
-
-My first work experience was at Cafe24 Corp. I developed computer vision-based web service solutions such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection for E-commerce market. 
+My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. My first work experience was at Cafe24 Corp. I developed computer vision-based web service solutions such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection for E-commerce market. 
 
 Currently, I am working on computer vision field with experience of autonomous navigation techniques at Avikus.
 
