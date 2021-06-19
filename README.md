@@ -21,8 +21,8 @@ Currently, I am working on computer vision field with experience of autonomous n
 
 ## :e-mail: Contact
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:pjh5672.dev@gmail.com) 
+[![Google Scholar](http://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=appveyor&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=irBgAx4AAAAJ)](https://scholar.google.com/citations?hl=en&user=irBgAx4AAAAJ) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiho-park-9a5595163)](https://www.linkedin.com/in/jiho-park-9a5595163) 
 [![Tech Blog](http://img.shields.io/badge/Tech%20Blog-important?style=flat-square&logo=github&link=https://big-dream-world.tistory.com)](https://big-dream-world.tistory.com) 
-[![Google Scholar](http://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=appveyor&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=irBgAx4AAAAJ)](https://scholar.google.com/citations?hl=en&user=irBgAx4AAAAJ) 
 [![Curriculum Vitae](http://img.shields.io/badge/Curriculum%20Vitae-yellow?style=flat-square&logo=github&link=https://drive.google.com/file/d/1PK96ofyD6aKyzmxXJ8dKR1-PN_UN-Mw8/view?usp=sharing)](https://drive.google.com/file/d/1bVpJxRE1-3hWsmJky4HVoCPjy8Yo1tZN/view?usp=sharing) 
 
