@@ -1,10 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjh5672&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/pjh5672)  
 
 ## :smile: Biography
-I am a **machine learning researcher** who specifically working in the field of computer vision.  
-My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. My first work experience was at Cafe24 Corp. I developed computer vision-based web service solutions such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection for E-commerce market. 
-
-Currently, I am working on computer vision field with experience of autonomous navigation techniques at Avikus.
+I am a **deep learning engineer** who specifically working in the field of computer vision.  
+My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. My first work experience was at Cafe24 Corp. I developed computer vision-based web service solutions such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection for E-commerce market. Currently, I am working on computer vision field with experience of autonomous navigation techniques at Avikus.
 
 ## :page_with_curl: Research Project
 |**Date** | **Task Type** | **Research Title** |
