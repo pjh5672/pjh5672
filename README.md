@@ -13,7 +13,7 @@ Currently, I am working on computer vision projects related to autonomous naviga
 ## :page_with_curl: Research Project
 |**Date** | **Task Type** | **Research Title** |
 |:-:|:-:|:-:|
-| Jun.2021~Present | Object Detection | *Development of intelligent navigation vision assistant system* |
+| Jun.2021~Present | Object Detection | *Development of vision based marine intelligent navigation assistant system* |
 | Nov.2020~May.2021 | Landmark Detection | *Fashion product size-charting automation based on landmark detection* |
 | Jun.2020~Dec.2020 | Color Quantization | *Dominant color extractor using K-means clustering* |
 | Nov.2019~Aug.2020 | Object Segmentation | *Super-detail model object segmentation* |
