@@ -1,8 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjh5672&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/pjh5672)  
 
 ## :smile: Biography
-I am a **deep learning engineer** who specifically working in the field of computer vision.  
-My research interest is **algorithm foundation** and **real-world application** with machine learning and statistical pattern analysis. I've been so inside artificial intelligence, and learning more and more with working experience. My first work experience was at Cafe24 Corp. I developed computer vision-based web service solutions such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection for E-commerce market. Currently, I am working on computer vision field with experience of autonomous navigation techniques at Avikus.
+I am a researcher in the field of machine learning with a focus on computer vision. My research interests include the foundations of algorithms and their real-world applications through machine learning and statistical pattern analysis.
+
+I have a background in architectural engineering, having graduated from Pusan National University (PNU) and obtaining my MS in civil and environmental engineering from the Korea Advanced Institute of Science and Technology (KAIST). My master's thesis involved the use of computer vision and image processing techniques for defect detection. Since then, I have been deeply engaged in the field of artificial intelligence, constantly expanding my knowledge through work experience.
+
+My professional experience began at Cafe24 Corp, where I developed computer vision-based web service solutions for the e-commerce market, such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection.
+
+Currently, I am working on computer vision projects related to autonomous navigation techniques at Avikus.
+
 
 ## :page_with_curl: Research Project
 |**Date** | **Task Type** | **Research Title** |
