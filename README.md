@@ -5,7 +5,9 @@ I am a researcher in the field of machine learning with a focus on computer visi
 
 I have a background in architectural engineering, having graduated from Pusan National University (PNU) and obtaining my MS in civil and environmental engineering from the Korea Advanced Institute of Science and Technology (KAIST). My master's thesis involved the use of computer vision and image processing techniques for defect detection. Since then, I have been deeply engaged in the field of artificial intelligence, constantly expanding my knowledge through work experience.
 
-My professional experience began at Cafe24 Corp, where I developed computer vision-based web service solutions for the e-commerce market, such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection. After then, I worked on vessel detection project for autonomous navigation system at Avikus. Now, I am working on deep learning modeling and optimization for Neural Processing Unit(NPU) at SAPEON Korea Inc.
+My professional experience began at Cafe24 Corp, where I developed computer vision-based web service solutions for the e-commerce market, such as image inpainting, interactive segmentation, dominant color analysis, and landmark detection. After then, I worked on vessel detection project for autonomous navigation system at Avikus. 
+
+Now, I am working on deep learning modeling and optimization for Neural Processing Unit(NPU) at SAPEON Korea Inc.
 
 
 ## :page_with_curl: Research Project
